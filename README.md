@@ -5,12 +5,8 @@
 **Diagramas**: Visual Paradigm Community  
 **Requisitos e Casos de Uso**: Word
 
-## Descrição do Projeto
-
-O objetivo deste projeto é buscar resolver necessidades reais de um sistema de software. O trabalho deve ser realizado individualmente, e deve apresentar pelo menos **quatro (4)** casos de uso. Devem ser tomados como base os conteúdos estudados durante a disciplina e o modelo de Documento de Especificação de Requisitos disponibilizado.
-
-<h2 align="center"> Language & Tools: </h2>
-<p align="center">
+<h2 align="left"> Language & Tools: </h2>
+<p align="left">
     <!-- Java -->
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -24,3 +20,34 @@ O objetivo deste projeto é buscar resolver necessidades reais de um sistema de 
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Word_2013-2019_logo.svg" alt="Word" width="40" height="40"/>
     </a>
 </p>
+
+## 🏋️‍♂️ FitControl - Sistema de Controle de Alunos de Pilates
+FitControl é um sistema simples baseado em terminal para a gestão de alunos, controle de pagamentos e agendamento de aulas em academias de Pilates. Desenvolvido em Java no IntelliJ, o sistema facilita a administração da academia sem a necessidade de uma interface gráfica complexa.
+
+## 📌 Funcionalidades
+✅ Cadastro de Alunos
+Registrar alunos com nome, telefone, e-mail e foto (opcional).
+Editar e excluir cadastros existentes.  
+
+✅ Controle de Pagamentos
+Registrar pagamentos de alunos.
+Identificar alunos inadimplentes.
+Gerar relatórios financeiros simples.
+
+✅ Agendamento de Aulas
+Atribuir alunos a horários disponíveis.
+Evitar conflitos de agenda.
+
+✅ Relatórios
+Gerar relatórios de pagamentos e frequência.
+Monitorar a situação financeira da academia.
+
+✅ Gestão de Pendências
+Identificar alunos com pagamentos atrasados.
+Exibir status financeiro de cada aluno.
+
+## 🛠️ Tecnologias Utilizadas
+- Linguagem: Java
+- IDE: IntelliJ IDEA
+- Paradigma: Programação Orientada a Objetos
+- Persistência de Dados: Arquivos locais (sem banco de dados)
