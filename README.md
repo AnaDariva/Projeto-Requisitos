@@ -12,9 +12,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     </a>
     <!-- Visual Paradigm (Imagem alternativa) -->
-    <a href="https://www.visual-paradigm.com" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/en/4/4b/Visual_Paradigm_logo.png" alt="Visual Paradigm" width="40" height="40"/>
-    </a>
+   <a href="https://www.visual-paradigm.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/AnaDariva/Projeto-Requisitos/blob/main/assets.png?raw=true" 
+         alt="Visual Paradigm" width="40" height="40"/>
+</a>
     <!-- Microsoft Word -->
     <a href="https://www.microsoft.com/microsoft-365/word" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Word_2013-2019_logo.svg" alt="Word" width="40" height="40"/>
@@ -51,3 +52,14 @@ Exibir status financeiro de cada aluno.
 - IDE: IntelliJ IDEA
 - Paradigma: Programação Orientada a Objetos
 - Persistência de Dados: Arquivos locais (sem banco de dados)
+
+## 📂 Estrutura do Projeto
+📦 fitcontrol  
+ ┣ 📂 model            # Classes de entidade (Aluno, Pagamento, Aula)  
+ ┣ 📂 service          # Regras de negócio  
+ ┣ 📂 util            # Utilitários do sistema  
+ ┣ 📂 main            # Ponto de entrada do sistema  
+ ┗ README.md          # Documentação  
+
+## 👩‍💻 Autor
+**Ana Luisa Dariva Ramos - Acadêmica de Análise e Desenvolvimento de Sistemas na UTFPR-PB**
