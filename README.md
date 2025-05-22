@@ -58,7 +58,7 @@ Exibir status financeiro de cada aluno.
  ┣ 📂 model            # Classes de entidade (Aluno, Pagamento, Aula)  
  ┣ 📂 service          # Regras de negócio  
  ┣ 📂 util            # Utilitários do sistema  
- ┣ 📂 main            # Ponto de entrada do sistema  
+ ┣ 📂 main            # Ponto de entrada do sistema
  ┗ README.md          # Documentação  
 
 ## 👩‍💻 Autor
