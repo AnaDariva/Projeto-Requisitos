@@ -55,8 +55,8 @@ Exibir status financeiro de cada aluno.
 
 ## 📂 Estrutura do Projeto
 📦 fitcontrol  
- ┣ 📂 model            # Classes de entidade (Aluno, Pagamento, Aula)  
- ┣ 📂 service          # Regras de negócio  
+ ┣ 📂 model           # Classes de entidade (Aluno, Pagamento, Aula)  
+ ┣ 📂 service         # Regras de negócio  
  ┣ 📂 util            # Utilitários do sistema  
  ┣ 📂 main            # Ponto de entrada do sistema
  ┗ README.md          # Documentação  
