@@ -1,7 +1,7 @@
 import service.AulaService;
 import service.PagamentoService;
 import service.AlunoService;
-import service.RelatorioService;  
+import service.RelatorioService;
 import model.Aula;
 import model.Pagamento;
 import model.Aluno;
