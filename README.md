@@ -1,6 +1,6 @@
 # Projeto para Aula de Análise e Projeto de Sistemas
 
-**Linguagem**: Jav
+**Linguagem**: Java
 **IDE**: IntelliJ
 **Diagramas**: Visual Paradigm Community  
 **Requisitos e Casos de Uso**: Word
