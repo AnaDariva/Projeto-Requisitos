@@ -6,7 +6,7 @@ import java.util.List;
 
 public class AlunoService {
     private List<Aluno> listaAlunos = new ArrayList<>();
-    private int proximoId = 1;
+    private int proximoId = 1
 
     public void cadastrarAluno(String nome, String telefone, String email) {
         Aluno aluno = new Aluno(proximoId++, nome, telefone, email);
